@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPSample</string>
+    <string name="movie_details">Click to load synopsis</string>
+</resources>
