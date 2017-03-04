@@ -1,7 +1,7 @@
 # Model View Presenter Applied on Android Development
 
-Welcome to my repository. Here have a  documented sample of MVP applied on Android Development
-I used retrofit to api connection, ormlite  to persise and show data on recycleview.
+Welcome to my repository. Here have a  documented sample of MVP applied on Android Development. <br/>
+I used Retrofit to api connection, ORMLite  to persistence and show data on Recycleview.
 
 ![N|Solid](https://raw.githubusercontent.com/andrefigas/MVPSample/master/mvp.png)
 
